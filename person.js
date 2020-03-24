@@ -2,4 +2,4 @@ function Person(name,age){
 	this.name = name;
 	this.age = age;
 }
-module.exports = Person
+module.exports = Person;

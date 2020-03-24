@@ -1,5 +1,5 @@
 function Client(){
-	this.name = null,
-	this.branch = null
+	this.name = null;
+	this.branch = null;
 }
-module.exports = Client
+module.exports = Client;

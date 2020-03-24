@@ -1,5 +1,5 @@
 function House(){ //constructor function
-	this.floors = null,
-	this.furnitures = []
+	this.floors = null;
+	this.furnitures = [];
 }
-module.exports = House
+module.exports = House;
