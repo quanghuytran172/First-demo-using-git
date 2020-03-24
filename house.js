@@ -6,4 +6,5 @@ function House(){ //constructor function
 House.prototype.destroy = function(){
 	this.isExist = false;
 }
+
 module.exports = House;
